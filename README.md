@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte da entrega de um trabalho da disciplina de **Programação Front-End** na faculdade. O objetivo do projeto é apresentar um portfólio pessoal com informações sobre mim, meus projetos, tecnologias que utilizo e formas de contato. 🚀
 
 ## 🛠️ Tecnologias Utilizadas
-- 🎨 **HTML**: Estrutura do site.
+- 🦴 **HTML**: Estrutura do site.
 - 🎨 **CSS**: Estilização e layout responsivo.
 - ⚡ **JavaScript**: Interatividade na página.
 
